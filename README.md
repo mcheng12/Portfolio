@@ -1,20 +1,29 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Michelle Cheng
+* Web Developer | Art and Animal Lover
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Bachelors of Science (Applied Mathematics), *University of Illinois at Urbana-Champaign*, 2014-2019
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: Verdant Behavioral Health](https://verdantbehavioralhealth.com) 
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+This project for a private behavioral health clinic offers consultations and therapy services to those who may be searching for a new provider.
+* Squarespace CMS
+* **Languages used:** HTML, CSS, Javascript
+![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+Photo by 
+ <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+   André François McKenzie
+ </a> on 
+ <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+   Unsplash
+ </a>
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+
+# [Project 2: ActionSpot Startup Studio](https://myactionspot.com) 
+
+This project advertises the co-working space studio in San Jose to potential start-up business clients, and offers various different services and package options.
+* Wordpress CMS
+* **Languages used:** HTML, CSS, Javascript
+
+
