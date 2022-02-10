@@ -9,15 +9,6 @@
 This project for a private behavioral health clinic offers consultations and therapy services to those who may be searching for a new provider.
 * Squarespace CMS
 * **Languages used:** HTML, CSS, Javascript
-![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
-
-Photo by 
- <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-   André François McKenzie
- </a> on 
- <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-   Unsplash
- </a>
 
 
 # [Project 2: ActionSpot Startup Studio](https://myactionspot.com) 
