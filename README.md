@@ -1,5 +1,5 @@
 # Michelle Cheng
-* Web Developer | Art and Animal Lover
+Web Developer | Art and Animal Lover
 
 # Education
 * Bachelors of Science (Applied Mathematics), *University of Illinois at Urbana-Champaign*, 2014-2019
